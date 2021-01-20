@@ -1,11 +1,11 @@
 {
-  "name": "djvuetut",
+  "name": "FileManager",
   "description": "A File Manager application",
   "version": "1.0.0",
   "author": {
-    "name": "talented",
-    "email": "ozguryarikkas@gmail.com",
-    "url": "http://rikkas.com"
+    "name": "Harerimana Egide",
+    "email": "egideharerimana085@gmail.com",
+    "url": ""
     },
   "license": "MIT",
   "keywords": [
