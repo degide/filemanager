@@ -42,12 +42,12 @@ pip install -r requirements.txt
 
 5. Setup for vue.js
 ```
-npm install
+yarn install
 ```
 
 ## How To Start
 
-1.  Run `npm run build`
+1.  Run `yarn run build`
 2.  Run `python manage.py migrate`
 3.  Run `python manage.py runserver`
 4.  Open your browser using the url: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
